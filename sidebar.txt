@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kmu:home|Door43 (kmu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kmu|d43-kmu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kmu/archive/master.zip|d43-kmu.zip]]
+
+**Recent Changes**
+{{changes>ns = kmu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kmu|Ethnologue data]]
+
